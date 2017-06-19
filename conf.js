@@ -10,12 +10,6 @@ exports.config = {
     // Framework to use. Jasmine is recommended.
     framework: 'jasmine',
 
-   
     specs: ['login_spec.js'],
 
-    //Options to be passed to Jasmine.
-    // jasmineNodeOpts: {
-    //     defaultTimeoutInterval: 30000
-    // }
-
-   };
+      };
