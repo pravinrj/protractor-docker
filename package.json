@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "protractor": "*"
+  },
+  "scripts": {
+  	
+  	 	"test": "protractor conf.js"
+  	
+  }
+}
